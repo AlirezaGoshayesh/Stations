@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map Of Bicycles</string>
+    <string name="base_url">https://mocki.io/v1/</string>
+</resources>
